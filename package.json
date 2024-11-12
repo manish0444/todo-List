@@ -1,0 +1,12 @@
+{
+    "name": "my-todo-app",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+      "start": "cd server && node index.js",
+      "build": "cd client && npm run build"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+  }
